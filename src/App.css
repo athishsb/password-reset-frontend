@@ -1,0 +1,24 @@
+.App{
+  text-align: center;
+}
+
+.body{
+  margin :0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+}
+
+.Auth-wrapper{
+  min-height: 100vh;
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

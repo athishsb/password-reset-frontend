@@ -1,0 +1,62 @@
+.Auth {
+  position: relative;
+  top: 100px;
+  width: 350px;
+  margin: 20px;
+}
+
+.card-heading {
+  color: rgb(10, 149, 255);
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  box-shadow: rgb(0 0 0 / 24%) 1px 2px 13px;
+}
+
+.cardbody {
+  width: 100%;
+}
+
+.logo {
+  height: 55px;
+  width: 55px;
+  margin-bottom: 10px;
+}
+
+.button1,
+.button2 {
+  background-color: rgb(10, 149, 255);
+  border-color: rgb(0, 0, 0, 0);
+  border-radius: 3px;
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 1px 0px 0px inset;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  padding: 0.4em;
+}
+
+.button2 {
+  margin-bottom: 20px;
+}
+
+.form-wrapper {
+  border: 1px solid #6e6b6b38;
+  border-radius: 5px;
+  padding: 20px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.error {
+  color: red;
+}
